@@ -1,5 +1,6 @@
-# mysql
-The Holy Quran - MySQL Database
+# The Holy Quran
+
+MySQL Database
 
 These files were downloaded from qurandatabase.org but since the website is now down, I've decided to share them here in case anyone needs them.
 
